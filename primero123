@@ -1,0 +1,22 @@
+hola, este es un primer archivo de prueba. Estoy usando el editor nano. 
+... hago cambios
+... que paso con los cambios?'?????
+27 de Agosto de 2014
+comando HEAD es para ....
+es un alias de los cambios ultimos que se hicieron sobre una rama dada. (
+trabajando siempresobre masters)
+comando ignore: 
+para que sepa que tiene que ignorar, por ejemplo al trabajar en tex los 
+archivos  .aux y .log  encargados de llevar el cruce de referencias y la
+reseña de la compilación no es neceasrio guardarlos para no terenr que 
+ocupar espacio de más. En ese caso se una el comando ignore.
+
+init: hace un repositorio (o deposito) para seguir los cambios
+
+status: permite ver los cabios o cuales son los archivos
+
+add: para subirlo al stageing area
+
+commit : validador de los cambios de stage -in area a largo plazo
+
+diff: ver las diferencias entre archivos
